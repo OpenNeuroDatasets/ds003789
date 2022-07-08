@@ -1,0 +1,28 @@
+onset	duration	trial_type	response	response_time	stim_group	stim_id	trial_id	run_id	stim_type
+2.006	3	0.0	n/a	n/a	n/a	150	109	5	n/a
+8.005	3	rep1	very pleasant	1.346	5	152	110	5	encoding
+20.005	3	rep1	very unpleasant	0.938	5	156	111	5	encoding
+32.020	3	rep1	very unpleasant	0.828	5	157	112	5	encoding
+44.018	3	rep1	very pleasant	0.653	5	154	113	5	encoding
+56.017	3	rep1	very unpleasant	0.590	5	153	114	5	encoding
+68.016	3	rep1	very unpleasant	0.695	5	158	115	5	encoding
+80.015	3	rep1	very unpleasant	0.576	5	151	116	5	encoding
+92.013	3	rep1	very unpleasant	0.674	5	155	117	5	encoding
+104.029	3	0.0	n/a	n/a	n/a	400	118	5	n/a
+110.012	3	rep2	very unpleasant	0.515	5	156	119	5	encoding
+122.010	3	rep2	very pleasant	0.709	5	154	120	5	encoding
+134.009	3	rep2	very pleasant	0.830	5	152	121	5	encoding
+146.024	3	rep2	very unpleasant	0.646	5	155	122	5	encoding
+158.023	3	rep2	very unpleasant	0.576	5	158	123	5	encoding
+170.022	3	rep2	very unpleasant	0.617	5	151	124	5	encoding
+182.021	3	rep2	very unpleasant	0.450	5	157	125	5	encoding
+194.004	3	rep2	very unpleasant	0.667	5	153	126	5	encoding
+206.018	3	0.0	n/a	n/a	n/a	410	127	5	n/a
+212.018	3	rep3	very unpleasant	0.565	5	151	128	5	encoding
+224.017	3	rep3	very unpleasant	0.686	5	158	129	5	encoding
+236.016	3	rep3	very unpleasant	0.687	5	157	130	5	encoding
+248.014	3	rep3	very unpleasant	0.633	5	153	131	5	encoding
+260.013	3	rep3	very unpleasant	0.642	5	155	132	5	encoding
+272.012	3	rep3	very pleasant	0.915	5	152	133	5	encoding
+284.011	3	rep3	very pleasant	0.700	5	154	134	5	encoding
+296.009	3	rep3	very unpleasant	0.429	5	156	135	5	encoding
