@@ -8,7 +8,7 @@
         "Bi Zhu"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "doi:10.18112/openneuro.ds003789.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds003789.v2.0.0",
     "Funding": [
         "TODO",
         "GRANT #1",
@@ -16,7 +16,7 @@
     ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
-    "Name": "Dynamic changes in neural representations underlie the repetition e\ufb00ect on false memory",
+    "Name": "Dynamic changes in neural representations underlie the repetition eﬀect on false memory",
     "ReferencesAndLinks": [
         "https://doi.org/10.1016/j.neuroimage.2022.119442"
     ]
